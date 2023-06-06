@@ -22,6 +22,7 @@ a, a:hover, a:visited {
     margin: 0;
     padding: 2vh 2vw;
     text-align: center;
+    font-size: 25px;
 }
 #footer {
     width: 100%;
@@ -30,7 +31,7 @@ a, a:hover, a:visited {
     padding-bottom: 2vh;
     text-align: center;
     line-height: 25px;
-    font-size: 13px;
+    font-size: 18px;
     position: relative;
     z-index: 5;
 }
@@ -71,13 +72,13 @@ a, a:hover, a:visited {
     opacity: 0.25;
 }
 .step.active {
-    opacity: 0.9;
+    opacity: 0.95;
 }
 
 .step div {
     padding:  25px 50px;
     line-height: 25px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .step img {
@@ -151,5 +152,5 @@ a, a:hover, a:visited {
                      }
                      
         a:link{
-        color: blue;
+        color: #b7a57a;
         }
